@@ -1,0 +1,11 @@
+
+en:
+  admin:
+    actions:
+      run_job:
+        title: "Re-Run"
+        menu: "Re-Run"
+        breadcrumb: "Re-Run"
+        link: "Re-Run"
+        bulk_link: "Re-Run Job selected %{model_label_plural}"
+        done: "Re-Run Jobed"
